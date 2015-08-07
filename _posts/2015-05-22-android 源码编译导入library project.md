@@ -3,6 +3,8 @@ layout: post
 title: "android 源码编译导入library project"
 date: 2015-05-22 19:07
 comments: true
+categories: Android
+tags: Android libbrary project 源码
 ---
 
 修改launcher，需要依赖一个library project:password，无法直接在源码中编译。google出来的结果没有合适的方法，最后在源码packageses/apps/Email中找到了答案。
