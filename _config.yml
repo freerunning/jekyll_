@@ -10,3 +10,6 @@ paginate: 2
 
 highlighter: pygments
 markdown: rdiscount
+
+analytics:
+provider: custom
