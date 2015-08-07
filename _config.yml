@@ -1,2 +1,12 @@
 baseurl: 
+
+name: dingyu's blog
+description: 一点寒芒先至，随后枪出如龙
+github: 'freerunning'
+disqus: ''
+comments: true
+permalink: /:year/:month/:title
+paginate: 2 
+
+highlighter: pygments
 markdown: rdiscount
